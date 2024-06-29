@@ -1,0 +1,59 @@
+.row {
+	margin-bottom: 15px;
+	width: 100%;
+}
+.row > div {
+	border: 2px solid red;
+	background-color: gray;
+}
+
+h1 {
+	text-align: center;
+}
+.col-md-4 {
+	background-color: gray;
+			padding: 30px 30px 30px 30px;
+			border: 10px solid blue;
+			margin: 20px;
+			width: 400px;
+			height: 150px;
+			box-sizing:border-box;
+			overflow: scroll;
+}
+
+p{
+			width: 100px;
+			height: 20px;
+			border: 2px solid black;
+
+		}
+			
+		#Chicken {
+			background-color: pink;
+			text-align: center;
+			position: absolute;
+			float: right;
+			margin-top: -30px;
+			margin-left: 260px;
+
+			
+		}
+		#Beef {
+			background-color:crimson;
+			text-align: center;
+			color: ghostwhite;
+			position: absolute;
+			float: right;
+			margin-top: -30px;
+			margin-left: 260px;
+
+
+		}
+		#Sushi {
+			background-color: lightgoldenrodyellow;
+			text-align: center;
+			float: right;
+			position: absolute;
+			margin-top: -30px;
+			margin-left: 260px;
+		}
